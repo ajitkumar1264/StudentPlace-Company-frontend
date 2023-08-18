@@ -1,0 +1,51 @@
+.content16{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.con16{
+
+    padding: 30px 30px;
+    width: 100%;
+}
+.con16 table{
+    width: 100%;
+}
+
+.con16 .cname {
+font-size: 30px;
+color: greenyellow;
+margin: 30px 0;
+
+}
+
+.con16 table tr th{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+
+}
+.con16 table{
+    border: 5px solid black;
+}
+.con16 table tr td{
+    padding: 10px 15px;
+    color: rgb(210, 208, 208);
+
+}
+.con16 table tr button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 5px 3px;
+    background-color: greenyellow;
+    font-size: 18px;
+
+}

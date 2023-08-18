@@ -1,0 +1,179 @@
+.content13{
+    background-color: #2a2e31;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     color: white;
+    position: relative;
+}
+
+.con13{
+     text-align: center;
+    padding: 0px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.con13 h6{
+    
+    font-size: 20px;
+    font-weight: 200;
+    
+}
+
+.con13 .line{
+
+    margin: 20px auto;
+    height: 2px;
+    background-color: white;
+    width: 90px;
+}
+
+.con13 h1{
+
+    margin: 30px 0;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+
+.con13 h5{
+
+    font-size: 20px;
+    font-weight: 200;
+    width: 60%;
+    margin: 30px auto;
+
+}
+
+.con13 .form button{
+    padding: 8px 9px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.form17{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    width: 84%;
+
+
+}
+
+.form18{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+.form19{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    
+  
+}
+
+.form19 .grid{
+    display: grid;
+    width: 100%;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.form19 .grid .data{
+   
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    
+}
+
+.form19 .grid .data input{
+    height: 40px;
+    margin-top: 5px;
+     background-color: #33393e;
+     color: white;    
+    border-radius: 5px;
+}
+.form19 .grid .data h3{
+   color: greenyellow;
+}
+.form19 .grid .data h5{
+   color: greenyellow;
+}
+.form19 .grid .data select{
+    height: 40px;
+    margin-top: 5px;
+    color: white;
+     background-color: #33393e;
+    border-radius: 5px;
+}
+
+.form19 .data1{
+    display: flex;
+    font-size: 20px;
+    margin: 20px 0;
+    flex-direction: column;
+   
+}
+
+.form19 .data1 h3{
+    color: greenyellow;
+    font-weight: 500;
+}
+
+.form19 .data1 input{
+ 
+    height: 40px;
+    margin-top: 5px;
+    color: white;
+    background-color: #33393e;
+    border-radius: 5px;
+}
+.form19 .data1 textarea{
+ 
+    margin-top: 5px;
+    color: white;
+    background-color: #33393e;
+    border-radius: 5px;
+}
+
+.form19 button{
+    margin-top: 30px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #2a2e31;
+}
+
+.content13_1{
+    height: 10vh;
+    background-color: #222528;
+}
+
+.content13 img{
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+    width: 100px;
+    animation: 10s slide linear infinite;
+}
+
+@keyframes slide {
+    0%{
+        transform: translate(0px);
+    }
+    100%{
+        transform: translate(800px);
+    }    
+}
+
+
+

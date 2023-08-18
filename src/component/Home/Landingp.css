@@ -1,0 +1,34 @@
+.content{
+
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content .text1{
+    text-align: center;
+}
+
+.content h2{
+    font-size: 90px;
+    color: greenyellow;
+    font-weight: 1000;
+    font-style:oblique;
+    text-transform: uppercase;
+   
+}
+
+.content h4 span{
+ 
+    color: #eae8e8;
+}
+
+.content h4{
+    width: 40%;
+    text-align:center;
+    color: #b4a9a9;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 50px auto;
+}

@@ -1,0 +1,68 @@
+.content4{
+    background-color: #fefefe;
+    height: 80vh;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+     z-index: 1;
+     color: #2a2e31;
+
+}
+.content4_1{
+    background-color: #fefefe;
+    height: 30vh;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+   
+
+}
+
+.con4{
+     text-align: center;
+    padding: 80px 80px;
+}
+.con4 img{
+
+position: absolute;
+top: 18%;
+left: 5%;
+z-index: -1;
+
+}
+.con4 h6{
+    
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.con4 .line{
+
+    margin: 20px auto;
+    height: 2px;
+    background-color: black;
+    width: 90px;
+}
+
+.con4 h1{
+
+    margin: 30px 0;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+.con4 h5{
+
+    font-size: 20px;
+    font-weight: 200;
+    width: 60%;
+    margin: 30px auto;
+
+}
+
+.con4 button{
+    padding: 8px 9px;
+    font-size: 20px;
+}
